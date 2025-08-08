@@ -1,0 +1,25 @@
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python (if used)
+__pycache__/
+*.py[cod]
+
+# Node (if ever used)
+node_modules/
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+crash.log
+
+# AWS credential/config files (never commit these)
+*.pem
+*.key
+*.env
+.aws/
