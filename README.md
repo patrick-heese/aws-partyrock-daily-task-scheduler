@@ -35,7 +35,7 @@ This application is hosted entirely on the AWS PartyRock platform, which abstrac
 *This project does not include an AWS CloudFormation or Terraform template, as AWS PartyRock is a fully managed service and abstracts away backend infrastructure.*
 
 ## Project Structure
-```
+```plaintext
 aws-partyrock-daily-task-scheduler/
 ├── assets/                     # Images, diagrams, screenshots
 │ └── architecture-diagram.png   
