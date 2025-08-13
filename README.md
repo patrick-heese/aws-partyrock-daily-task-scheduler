@@ -38,8 +38,8 @@ This application is hosted entirely on the AWS PartyRock platform, which abstrac
 ```plaintext
 aws-partyrock-daily-task-scheduler/
 ├── assets/                     # Images, diagrams, screenshots
-│ └── architecture-diagram.png   
-│ └── screenshot.png            
+│ ├── architecture-diagram.png  # Project architecture
+│ └── screenshot.png            # Application screenshot
 ├── LICENSE                     # MIT License
 ├── README.md                   # Project documentation
 └── .gitignore                  # Git ignored files
