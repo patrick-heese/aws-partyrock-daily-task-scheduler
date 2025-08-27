@@ -72,5 +72,5 @@ Cloud Administrator | Aspiring Cloud Engineer/Architect
 
 ## Acknowledgments
 This project was inspired by a course from [techwithlucy](https://github.com/techwithlucy).  
-All documentation was designed and developed by me.  
+I designed and developed all project documentation.  
 The architecture diagram included here is my own version, adapted from the original course diagram.  
