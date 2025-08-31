@@ -34,6 +34,12 @@ This application is hosted entirely on the AWS PartyRock platform, which abstrac
 ## Deployment Instructions
 *This project does not include an AWS CloudFormation or Terraform template, as AWS PartyRock is a fully managed service and abstracts away backend infrastructure.*
 
+## How to Use
+1. Open the live application: [Daily Task Scheduler Application](https://partyrock.aws/u/patrick-heese/Q3yFX5XnU/Daily-Task-Scheduler-Application).
+2. Enter your tasks and priorities.
+3. Click **Play** to generate your schedule.
+4. (Optional) Use **Snapshot** to share results or **Remix** to create a custom version.
+
 ## Project Structure
 ```plaintext
 aws-partyrock-daily-task-scheduler/
@@ -47,12 +53,6 @@ aws-partyrock-daily-task-scheduler/
 
 ## Screenshot
 ![App Screenshot](assets/screenshot.png)
-
-## How to Use
-1. Open the live application: [Daily Task Scheduler Application](https://partyrock.aws/u/patrick-heese/Q3yFX5XnU/Daily-Task-Scheduler-Application).
-2. Enter your tasks and priorities.
-3. Click **Play** to generate your schedule.
-4. (Optional) Use **Snapshot** to share results or **Remix** to create a custom version.
 
 ## Future Enhancements
 - **Custom AWS Application** – Rebuild the PartyRock functionality using API Gateway, Bedrock, and Lambda for more control and customization.
